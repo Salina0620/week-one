@@ -40,7 +40,6 @@ padding: 8px;
       <p>Education: {{ $education }}</p>
       <p>GitLink: <a href="{{ $git }}">{{ $git }}</a></p>
 
-      <p>hello</p>
   </div>
 
 </body>
